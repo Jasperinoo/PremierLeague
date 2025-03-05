@@ -2,7 +2,7 @@ pandas
 numpy 
 seaborn 
 matplotlib
-request
+requests
 streamlit
 plotly
 datetime
